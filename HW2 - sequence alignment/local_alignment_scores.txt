@@ -1,0 +1,530 @@
+ --- 
+ORF -1 -- : Human-SARS : ORF1ab polyprotein
+474
+
+ORF -1 -- : Human-SARS : spike glycoprotein
+100
+
+ORF -1 -- : Human-SARS : ORF3a protein
+67
+
+ORF -1 -- : Human-SARS : ORF3b protein
+28
+
+ORF -1 -- : Human-SARS : small envelope protein
+15
+
+ORF -1 -- : Human-SARS : membrane glycoprotein M
+55
+
+ORF -1 -- : Human-SARS : ORF6 protein
+14
+
+ORF -1 -- : Human-SARS : ORF7a protein
+31
+
+ORF -1 -- : Human-SARS : ORF7b protein
+13
+
+ORF -1 -- : Human-SARS : ORF8a protein
+8
+
+ORF -1 -- : Human-SARS : ORF8b protein
+22
+
+ORF -1 -- : Human-SARS : nucleocapsid protein
+62
+
+ORF -1 -- : Human-SARS : ORF9b protein
+24
+
+ORF -1 -- : Human-SARS : ORF9a protein
+17
+
+ORF -1 -- : Bat-CoV RaTG13 : orf1ab polyprotein
+491
+
+ORF -1 -- : Bat-CoV RaTG13 : spike glycoprotein
+130
+
+ORF -1 -- : Bat-CoV RaTG13 : nonstructural protein NS3
+53
+
+ORF -1 -- : Bat-CoV RaTG13 : envelope protein
+14
+
+ORF -1 -- : Bat-CoV RaTG13 : membrane protein
+48
+
+ORF -1 -- : Bat-CoV RaTG13 : nonstructural protein NS6
+13
+
+ORF -1 -- : Bat-CoV RaTG13 : nonstructural protein NS7a
+28
+
+ORF -1 -- : Bat-CoV RaTG13 : nonstructural protein NS7b
+13
+
+ORF -1 -- : Bat-CoV RaTG13 : nonstructural protein NS8
+33
+
+ORF -1 -- : Bat-CoV RaTG13 : nucleocapsid protein
+58
+
+ORF -1 -- : Pangolin-CoV MP789 : orf1ab polyprotein
+491
+
+ORF -1 -- : Pangolin-CoV MP789 : surface glycoprotein
+128
+
+ORF -1 -- : Pangolin-CoV MP789 : ORF3 protein
+53
+
+ORF -1 -- : Pangolin-CoV MP789 : envelope protein
+14
+
+ORF -1 -- : Pangolin-CoV MP789 : membrane glycoprotein
+48
+
+ORF -1 -- : Pangolin-CoV MP789 : ORF6 protein
+12
+
+ORF -1 -- : Pangolin-CoV MP789 : ORF7a protein
+31
+
+ORF -1 -- : Pangolin-CoV MP789 : ORF7b protein
+13
+
+ORF -1 -- : Pangolin-CoV MP789 : ORF8 protein
+25
+
+ORF -1 -- : Pangolin-CoV MP789 : nucleocapsid phosphoprotein
+56
+
+ORF -1 -- : Pangolin-CoV MP789 : ORF10 protein
+8
+
+ --- 
+ORF -2 -- : Human-SARS : ORF1ab polyprotein
+38
+
+ORF -2 -- : Human-SARS : spike glycoprotein
+31
+
+ORF -2 -- : Human-SARS : ORF3a protein
+33
+
+ORF -2 -- : Human-SARS : ORF3b protein
+18
+
+ORF -2 -- : Human-SARS : small envelope protein
+25
+
+ORF -2 -- : Human-SARS : membrane glycoprotein M
+119
+
+ORF -2 -- : Human-SARS : ORF6 protein
+12
+
+ORF -2 -- : Human-SARS : ORF7a protein
+8
+
+ORF -2 -- : Human-SARS : ORF7b protein
+11
+
+ORF -2 -- : Human-SARS : ORF8a protein
+9
+
+ORF -2 -- : Human-SARS : ORF8b protein
+12
+
+ORF -2 -- : Human-SARS : nucleocapsid protein
+32
+
+ORF -2 -- : Human-SARS : ORF9b protein
+16
+
+ORF -2 -- : Human-SARS : ORF9a protein
+16
+
+ORF -2 -- : Bat-CoV RaTG13 : orf1ab polyprotein
+34
+
+ORF -2 -- : Bat-CoV RaTG13 : spike glycoprotein
+31
+
+ORF -2 -- : Bat-CoV RaTG13 : nonstructural protein NS3
+34
+
+ORF -2 -- : Bat-CoV RaTG13 : envelope protein
+24
+
+ORF -2 -- : Bat-CoV RaTG13 : membrane protein
+132
+
+ORF -2 -- : Bat-CoV RaTG13 : nonstructural protein NS6
+9
+
+ORF -2 -- : Bat-CoV RaTG13 : nonstructural protein NS7a
+16
+
+ORF -2 -- : Bat-CoV RaTG13 : nonstructural protein NS7b
+6
+
+ORF -2 -- : Bat-CoV RaTG13 : nonstructural protein NS8
+16
+
+ORF -2 -- : Bat-CoV RaTG13 : nucleocapsid protein
+25
+
+ORF -2 -- : Pangolin-CoV MP789 : orf1ab polyprotein
+34
+
+ORF -2 -- : Pangolin-CoV MP789 : surface glycoprotein
+25
+
+ORF -2 -- : Pangolin-CoV MP789 : ORF3 protein
+34
+
+ORF -2 -- : Pangolin-CoV MP789 : envelope protein
+24
+
+ORF -2 -- : Pangolin-CoV MP789 : membrane glycoprotein
+132
+
+ORF -2 -- : Pangolin-CoV MP789 : ORF6 protein
+13
+
+ORF -2 -- : Pangolin-CoV MP789 : ORF7a protein
+17
+
+ORF -2 -- : Pangolin-CoV MP789 : ORF7b protein
+4
+
+ORF -2 -- : Pangolin-CoV MP789 : ORF8 protein
+18
+
+ORF -2 -- : Pangolin-CoV MP789 : nucleocapsid phosphoprotein
+34
+
+ORF -2 -- : Pangolin-CoV MP789 : ORF10 protein
+9
+
+ --- 
+ORF -3 -- : Human-SARS : ORF1ab polyprotein
+130
+
+ORF -3 -- : Human-SARS : spike glycoprotein
+523
+
+ORF -3 -- : Human-SARS : ORF3a protein
+76
+
+ORF -3 -- : Human-SARS : ORF3b protein
+31
+
+ORF -3 -- : Human-SARS : small envelope protein
+8
+
+ORF -3 -- : Human-SARS : membrane glycoprotein M
+57
+
+ORF -3 -- : Human-SARS : ORF6 protein
+24
+
+ORF -3 -- : Human-SARS : ORF7a protein
+24
+
+ORF -3 -- : Human-SARS : ORF7b protein
+6
+
+ORF -3 -- : Human-SARS : ORF8a protein
+15
+
+ORF -3 -- : Human-SARS : ORF8b protein
+25
+
+ORF -3 -- : Human-SARS : nucleocapsid protein
+74
+
+ORF -3 -- : Human-SARS : ORF9b protein
+23
+
+ORF -3 -- : Human-SARS : ORF9a protein
+18
+
+ORF -3 -- : Bat-CoV RaTG13 : orf1ab polyprotein
+138
+
+ORF -3 -- : Bat-CoV RaTG13 : spike glycoprotein
+575
+
+ORF -3 -- : Bat-CoV RaTG13 : nonstructural protein NS3
+68
+
+ORF -3 -- : Bat-CoV RaTG13 : envelope protein
+8
+
+ORF -3 -- : Bat-CoV RaTG13 : membrane protein
+53
+
+ORF -3 -- : Bat-CoV RaTG13 : nonstructural protein NS6
+18
+
+ORF -3 -- : Bat-CoV RaTG13 : nonstructural protein NS7a
+17
+
+ORF -3 -- : Bat-CoV RaTG13 : nonstructural protein NS7b
+6
+
+ORF -3 -- : Bat-CoV RaTG13 : nonstructural protein NS8
+31
+
+ORF -3 -- : Bat-CoV RaTG13 : nucleocapsid protein
+90
+
+ORF -3 -- : Pangolin-CoV MP789 : orf1ab polyprotein
+136
+
+ORF -3 -- : Pangolin-CoV MP789 : surface glycoprotein
+570
+
+ORF -3 -- : Pangolin-CoV MP789 : ORF3 protein
+69
+
+ORF -3 -- : Pangolin-CoV MP789 : envelope protein
+8
+
+ORF -3 -- : Pangolin-CoV MP789 : membrane glycoprotein
+53
+
+ORF -3 -- : Pangolin-CoV MP789 : ORF6 protein
+17
+
+ORF -3 -- : Pangolin-CoV MP789 : ORF7a protein
+35
+
+ORF -3 -- : Pangolin-CoV MP789 : ORF7b protein
+6
+
+ORF -3 -- : Pangolin-CoV MP789 : ORF8 protein
+19
+
+ORF -3 -- : Pangolin-CoV MP789 : nucleocapsid phosphoprotein
+81
+
+ORF -3 -- : Pangolin-CoV MP789 : ORF10 protein
+7
+
+ --- 
+ORF -4 -- : Human-SARS : ORF1ab polyprotein
+1329
+
+ORF -4 -- : Human-SARS : spike glycoprotein
+307
+
+ORF -4 -- : Human-SARS : ORF3a protein
+56
+
+ORF -4 -- : Human-SARS : ORF3b protein
+36
+
+ORF -4 -- : Human-SARS : small envelope protein
+18
+
+ORF -4 -- : Human-SARS : membrane glycoprotein M
+44
+
+ORF -4 -- : Human-SARS : ORF6 protein
+18
+
+ORF -4 -- : Human-SARS : ORF7a protein
+30
+
+ORF -4 -- : Human-SARS : ORF7b protein
+11
+
+ORF -4 -- : Human-SARS : ORF8a protein
+8
+
+ORF -4 -- : Human-SARS : ORF8b protein
+22
+
+ORF -4 -- : Human-SARS : nucleocapsid protein
+62
+
+ORF -4 -- : Human-SARS : ORF9b protein
+24
+
+ORF -4 -- : Human-SARS : ORF9a protein
+15
+
+ORF -4 -- : Bat-CoV RaTG13 : orf1ab polyprotein
+1440
+
+ORF -4 -- : Bat-CoV RaTG13 : spike glycoprotein
+304
+
+ORF -4 -- : Bat-CoV RaTG13 : nonstructural protein NS3
+61
+
+ORF -4 -- : Bat-CoV RaTG13 : envelope protein
+17
+
+ORF -4 -- : Bat-CoV RaTG13 : membrane protein
+56
+
+ORF -4 -- : Bat-CoV RaTG13 : nonstructural protein NS6
+18
+
+ORF -4 -- : Bat-CoV RaTG13 : nonstructural protein NS7a
+27
+
+ORF -4 -- : Bat-CoV RaTG13 : nonstructural protein NS7b
+12
+
+ORF -4 -- : Bat-CoV RaTG13 : nonstructural protein NS8
+29
+
+ORF -4 -- : Bat-CoV RaTG13 : nucleocapsid protein
+72
+
+ORF -4 -- : Pangolin-CoV MP789 : orf1ab polyprotein
+1436
+
+ORF -4 -- : Pangolin-CoV MP789 : surface glycoprotein
+303
+
+ORF -4 -- : Pangolin-CoV MP789 : ORF3 protein
+63
+
+ORF -4 -- : Pangolin-CoV MP789 : envelope protein
+17
+
+ORF -4 -- : Pangolin-CoV MP789 : membrane glycoprotein
+56
+
+ORF -4 -- : Pangolin-CoV MP789 : ORF6 protein
+13
+
+ORF -4 -- : Pangolin-CoV MP789 : ORF7a protein
+26
+
+ORF -4 -- : Pangolin-CoV MP789 : ORF7b protein
+11
+
+ORF -4 -- : Pangolin-CoV MP789 : ORF8 protein
+23
+
+ORF -4 -- : Pangolin-CoV MP789 : nucleocapsid phosphoprotein
+78
+
+ORF -4 -- : Pangolin-CoV MP789 : ORF10 protein
+12
+
+ --- 
+ORF -5 -- : Human-SARS : ORF1ab polyprotein
+71
+
+ORF -5 -- : Human-SARS : spike glycoprotein
+65
+
+ORF -5 -- : Human-SARS : ORF3a protein
+200
+
+ORF -5 -- : Human-SARS : ORF3b protein
+37
+
+ORF -5 -- : Human-SARS : small envelope protein
+20
+
+ORF -5 -- : Human-SARS : membrane glycoprotein M
+58
+
+ORF -5 -- : Human-SARS : ORF6 protein
+13
+
+ORF -5 -- : Human-SARS : ORF7a protein
+25
+
+ORF -5 -- : Human-SARS : ORF7b protein
+10
+
+ORF -5 -- : Human-SARS : ORF8a protein
+9
+
+ORF -5 -- : Human-SARS : ORF8b protein
+26
+
+ORF -5 -- : Human-SARS : nucleocapsid protein
+32
+
+ORF -5 -- : Human-SARS : ORF9b protein
+10
+
+ORF -5 -- : Human-SARS : ORF9a protein
+17
+
+ORF -5 -- : Bat-CoV RaTG13 : orf1ab polyprotein
+69
+
+ORF -5 -- : Bat-CoV RaTG13 : spike glycoprotein
+68
+
+ORF -5 -- : Bat-CoV RaTG13 : nonstructural protein NS3
+269
+
+ORF -5 -- : Bat-CoV RaTG13 : envelope protein
+17
+
+ORF -5 -- : Bat-CoV RaTG13 : membrane protein
+55
+
+ORF -5 -- : Bat-CoV RaTG13 : nonstructural protein NS6
+14
+
+ORF -5 -- : Bat-CoV RaTG13 : nonstructural protein NS7a
+31
+
+ORF -5 -- : Bat-CoV RaTG13 : nonstructural protein NS7b
+16
+
+ORF -5 -- : Bat-CoV RaTG13 : nonstructural protein NS8
+18
+
+ORF -5 -- : Bat-CoV RaTG13 : nucleocapsid protein
+15
+
+ORF -5 -- : Pangolin-CoV MP789 : orf1ab polyprotein
+70
+
+ORF -5 -- : Pangolin-CoV MP789 : surface glycoprotein
+68
+
+ORF -5 -- : Pangolin-CoV MP789 : ORF3 protein
+267
+
+ORF -5 -- : Pangolin-CoV MP789 : envelope protein
+17
+
+ORF -5 -- : Pangolin-CoV MP789 : membrane glycoprotein
+54
+
+ORF -5 -- : Pangolin-CoV MP789 : ORF6 protein
+15
+
+ORF -5 -- : Pangolin-CoV MP789 : ORF7a protein
+28
+
+ORF -5 -- : Pangolin-CoV MP789 : ORF7b protein
+18
+
+ORF -5 -- : Pangolin-CoV MP789 : ORF8 protein
+21
+
+ORF -5 -- : Pangolin-CoV MP789 : nucleocapsid phosphoprotein
+14
+
+ORF -5 -- : Pangolin-CoV MP789 : ORF10 protein
+8
+
