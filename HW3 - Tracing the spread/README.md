@@ -1,10 +1,5 @@
 # Homework 3
 
-**Name**: <name> <surname>
-
-**Student number**: <student id number>
-
-
 ## Environment instructions
 
 You will need Python 3.7 or higher. You will need to install `biopython` for accessing NCBI and `matplotlib` for plotting. You can also use `numpy`, `scipy`, `pandas`, and `seaborn`. You will need `jupyterlab` to open and run the notebook. You can install everything necessary by running

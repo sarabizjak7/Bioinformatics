@@ -1,10 +1,5 @@
 # Homework 1
 
-**Name**: Sara Bizjak
-
-**Student number**: 27202020
-
-
 ## Environment instructions
 
 You will need Python 3.7 or higher. You will need to install `biopython` for accessing NCBI and `matplotlib` for plotting. You can also use `numpy`. You will need `jupyterlab` to open and run the notebook. You can install everything necessary by running
